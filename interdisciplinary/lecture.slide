@@ -3,26 +3,36 @@ Interdisciplinary Applications of Computer Science
 
 Robin Eklind
 
+// === [ Disposition ] ===
+
 * Disposition
 
 - Bridging the disciplines
 - Seeking inspiration from nature
 - Applying computational concepts in other fields
 
+// === [ Bridging the Disciplines ] ===
+
 * Bridging the Disciplines
 
-** Bioinformatics - a Fusion between Biology and Computer Science
+// --- [ Bioinformatics ] ---
+
+* Bioinformatics - a Fusion between Biology and Computer Science
 
 - The Human Genome Project.
     - The human genome consists of approximately 30,000 genes.
     - _"People declared the Human Genome Project a failure halfway through, when one percent had been decoded -- they said it'd take 700 years. My reaction was, no, we're almost done. It was finished seven years later."_ - [[http://www.wired.co.uk/magazine/archive/2013/05/singularity-university/on-the-exponential-curve][Raymond Kurzweil]]
 - [[http://rosalind.info/][Rosalind]]: a platform for learning bioinformatics and programming through problem solving
 
-** Biological Computers
+// --- [ Biological Computers ] ---
+
+* Biological Computers
 
 .image http://content.science20.com/files/images/110901142056-large.jpg 800 800
 
-** Neural Interfaces
+// --- [ Neural Interfaces ] ---
+
+* Neural Interfaces
 
 - Todays capabilities
     - Thought-controlled prosthetic limb with sensory feedback
@@ -35,16 +45,22 @@ Robin Eklind
     - Transfer feelings and thoughts
     - Hive mind
 
+// === [ Seeking Inspiration from Nature ] ===
+
 * Seeking Inspiration from Nature
 
-** Artificial Intelligence
+// --- [ Artificial Intelligence ] ---
+
+* Artificial Intelligence
 
 - Artificial brains
 - Feature detectors
 - The facial recognition area
 .link https://www.youtube.com/watch?v=5Yj3nGv0kn8#t=343 Nancy Kanwisher: A neural portrait of the human mind (watch the talk on YouTube)
 
-** Evolutionary x
+// --- [ Evolutionary X ] ---
+
+* Evolutionary X
 
 - Evolutionary Compilers
 - Evolutionary Sound Creation
@@ -54,8 +70,14 @@ Machine learning.
 .image inc/perfect.png 486 619
 .caption _"Face just melted. Perfect!!"_ comment on [[https://soundcloud.com/][SoundCloud]].
 
+// === [ Applying Computational Concepts in Other Fields ] ===
+
 * Applying Computational Concepts in Other Fields
 
-** White Listing of Molecules in the Bloodstream
+// --- [ White Listing of Molecules in the Bloodstream ] ---
 
-** Neural Interfaces
+* White Listing of Molecules in the Bloodstream
+
+// --- [ Neural Interfaces ] ---
+
+* Neural Interfaces
